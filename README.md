@@ -1,50 +1,25 @@
-# Hi, I'm Abhay Bharti
+# 💫 About Me:
+Motivated Computer Science student with a strong interest in web development. Eager to collaborate with senior developers to create high-quality web applications and continuously learn the latest web development technologies.<br>
 
-## About Me
+## Portfolio [Click here to visit my portfolio website](https://abhay-bharti.vercel.app/) <br>
 
-Hello! I'm Abhay Bharti, a passionate coder and an aspiring MERN Stack Web Developer. I am currently pursuing my B. Tech. in Computer Science Engineering with a major in Web Development at Lovely Professional University. I have a keen interest in creating innovative projects and gaining hands-on experience in the tech industry.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhay_bhartii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhay-bharti) 
 
-## Portfolio [Click here to visit my portfolio website](https://abhay-bharti.vercel.app/)
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=abhay-bharti&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=abhay-bharti&theme=github_dark_dimmed&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhay-bharti&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Skills
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=abhay-bharti&theme=github_dark_dimmed&no-frame=false&no-bg=false&margin-w=4)
 
-- **Programming Languages**: JAVA, C++, Python
-- **Web Development**: MERN Stack (MongoDB, Express, React, Node.js), HTML, CSS, JavaScript, Bootstrap, jQuery
-- **Databases**: MySQL, PostgreSQL
-- **Other Skills**: Content Writing, Data Entry
-- **Tools & Technologies**: Git, JSON, RESTful APIs, Version Control, Agile Methodology
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## Projects
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=abhay-bharti&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
 
-### [CloudBouncer: DDOS Detection and Prevention](https://cloudbouncer-demo-frontend.onrender.com/)
-A comprehensive MERN stack application that detect and prevent DDOS Attacks.
-
-### [ToDo Master](https://to-do-master-main.vercel.app/)
-A MERN Project to save,edit,delete and update tasks.
-
-### [Agriter](https://abhay-bharti.github.io/Agriter/)
-A front-end project that showcases my skills in web development. Check out the live demo [here](https://abhay-bharti.github.io/Agriter/).
-
-## Experience
-
-- **Competitive Badminton Player**: Developed strong leadership, punctuality, and team management skills through sports.
-- **NCC Cadet**: Gained experience in discipline and teamwork.
-
-## Education
-
-- **Lovely Professional University**: B. Tech. in Computer Science Engineering with a major in Web Development
-
-## Contact Me
-
-- **GitHub**: [Abhay-Bharti](https://github.com/Abhay-Bharti)
-- **LinkedIn**: [Abhay Bharti](https://www.linkedin.com/in/abhay-bharti-857757252/)
-- **Email**: [abhaybharti2123@gmail.com](mailto:abhaybharti2123@gmail.com)
-
-## Goals
-
-I am actively seeking part-time opportunities and internships where I can contribute my knowledge and gain valuable company-level experience. I am eager to collaborate on exciting projects and be part of a dynamic team.
-
----
-
-Feel free to reach out to me for any collaboration, project ideas, or just to connect!
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
