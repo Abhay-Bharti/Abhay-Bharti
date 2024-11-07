@@ -21,6 +21,3 @@ Motivated Computer Science student with a strong interest in web development. Ea
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=abhay-bharti&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
