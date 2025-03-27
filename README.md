@@ -1,4 +1,5 @@
-# 💫 About Me:
+<h1 align="center" >Aspiring Full Stack Web Developer</h1>
+
 Motivated Computer Science student with a strong interest in web development. Eager to collaborate with senior developers to create high-quality web applications and continuously learn the latest web development technologies.<br>
 
 ## Portfolio: [Click here to visit my portfolio website](https://abhay-bharti.vercel.app/) <br>
