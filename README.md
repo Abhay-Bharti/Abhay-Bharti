@@ -1,129 +1,144 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px"/>
-  Hey there, I'm Abhay Bharti!
-</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 Aspiring Full Stack Web Developer 🚀
-</h3>
+# Hi, I'm Abhay Bharti 👋
 
-<p align="center">
-  <a href="https://abhay-bharti.vercel.app/" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Motivated+Computer+Science+Student;Passionate+Web+Developer;Always+Learning+Something+New!&center=true&width=500&height=50">
-  </a>
-</p>
+### Software Engineer building reliable backend and full-stack systems
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Go+%7C+Java+%7C+Node.js+%7C+Distributed+Systems;Turning+production+problems+into+reliable+software;Open+to+SDE+and+Backend+Engineering+roles)](https://git.io/typing-svg)
 
-## ✨ About Me
-I am a passionate Computer Science student and a budding Full Stack Web Developer who loves building modern, dynamic, and user-friendly websites. With a strong foundation in **MERN Stack** and a deep interest in creating impactful digital experiences, I aim to collaborate, learn, and innovate in every project I work on. Always driven by curiosity, a problem-solving mindset, and a commitment to lifelong learning! 🚀
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://abhay-bharti.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhay-bharti)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhaybharti2123@gmail.com)
+
+</div>
 
 ---
 
-## 📌 Portfolio :
-<span>
-  <a href="https://abhay-bharti.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Visit My Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-</span>
+## 👨‍💻 A little about me
+
+I'm a **2026 Computer Science graduate** who enjoys working where backend engineering meets scale, reliability, and real users. During my internships at **Razorpay** and **Auro Edu**, I worked on payment workflows, microservices, observability, deployment automation, APIs, and production debugging.
+
+```yaml
+current_focus: Backend engineering and distributed systems
+languages: Go, Java, Python, JavaScript
+interests: Microservices, system design, developer tooling, applied AI
+problem_solving: 475+ LeetCode problems
+status: Open to SDE, Backend and Full-Stack opportunities
+```
+
+## ⚡ Engineering impact
+
+| What I worked on | Impact |
+| --- | --- |
+| Optimized distributed payment request flows | Reduced end-to-end latency by **~3 seconds** |
+| Automated Helm synchronization across international regions | Updated **20+ services** and reduced two weeks of work to **4 days** |
+| Expanded automated testing for SG, MY and US flows | Added **120+ tests** and improved coverage by **~35%** |
+| Investigated a production 5xx incident | Identified the root cause and shipped a hotfix within **20 minutes** |
+| Built Kafka CDC using the outbox pattern | Enabled reliable real-time data synchronization across microservices |
+
+## 🚀 Things I've built
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 [Secure CLI Login System](https://github.com/Abhay-Bharti/CLI_login_system)
+
+A containerized authentication CLI built with **Go and SQLite**, featuring bcrypt password hashing, TOTP-based 2FA, account lockout, session management, graceful shutdown, and automated tests.
+
+`Go` `SQLite` `TOTP` `Docker` `Testing`
+
+</td>
+<td width="50%" valign="top">
+
+### ✨ SuiteGenie
+
+An AI-powered social automation platform with post generation, OAuth publishing, scheduled jobs, analytics caching, rate limiting, retries, and dead-letter queues.
+
+`React` `Node.js` `PostgreSQL` `Redis` `BullMQ`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ Cloud Bouncer
+
+An AI-assisted DDoS prevention system with traffic filtering, rate limiting, real-time monitoring, automated response, and an administrator dashboard.
+
+`MERN` `Python` `Security` `Real-time Analytics`
+
+</td>
+<td width="50%" valign="top">
+
+### 💳 Production Engineering at Razorpay
+
+Worked on eKYC/eKYB integrations, resilient webhooks, Kafka CDC, microservices, Kubernetes deployments, observability, incident response, and international payment flows.
+
+`Go` `gRPC` `Kafka` `Kubernetes` `Grafana`
+
+</td>
+</tr>
+</table>
+
+## 🧰 My toolbox
+
+<div align="center">
+
+**Languages & Frameworks**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+**Data, Cloud & Infrastructure**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+</div>
+
+## 📊 Coding snapshot
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhay-Bharti&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Abhay's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay-Bharti&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Most used languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhay-Bharti&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+</div>
+
+## 🧠 LeetCode
+
+<div align="center">
+  <img src="https://leetcode.card.workers.dev/Abhay_Bharti?theme=nord&font=baloo&extension=null" alt="Abhay's LeetCode statistics" />
+</div>
+
+## 💭 Developer thought
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" alt="Random developer quote" />
+</div>
 
 ---
 
-## 🌐 Connect With Me : 
-<p>
-  <a href="https://instagram.com/abhay_bhartii" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/abhay-bharti" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
----
+### Let's build something reliable, useful, and scalable.
 
-## 🛠️ Tech Stack
+**Open to Software Development Engineer, Backend Engineer, and Full-Stack Engineer roles.**
 
-### 🚀 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-</p>
-
-### 🎨 Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-</p>
-
-### 🔥 Backend Development
-<p>
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-### ☁️ Deployment & Hosting
-<p>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
-### 🛠️ Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
-### 🎨 Design Tools
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-</p>
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhay-bharti&theme=github_dark_dimmed&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay-bharti&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhay-bharti&theme=github_dark_dimmed&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</p>
-
----
-
-## 🧠 LeetCode Stats
-<p align="center">
-  <img src="https://leetcode.card.workers.dev/Abhay_Bharti?theme=nord&font=baloo&extension=null" alt="LeetCode Stats" />
-</p>
-
----
-
-## ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</p>
-
----
-
-<h3 align="center" >Thank you for visiting! 🌟 </h3>
+</div>
